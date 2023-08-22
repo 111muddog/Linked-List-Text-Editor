@@ -1,8 +1,6 @@
 /*
 
 Author: Angus Webb
-Student Number: 7575178
-Course: COSC 1P03
 Created: February 11th, 2022
 Class description: "Editor" takes in an ASCIIDataFile and allows the user to edit the text through the console.
  */
